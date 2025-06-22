@@ -1,4 +1,4 @@
-# 🤖 GPT-Agents: Hướng Dẫn Thực Hành AI Agents
+# 🤖 AI Agents: Hướng Dẫn Thực Hành AI Agents
 
 > **Dự án mã nguồn từ cuốn sách "AI Agents in Action" - Đã được cập nhật và tối ưu cho năm 2025**
 
@@ -25,7 +25,7 @@
 ## 📁 Cấu Trúc Dự Án
 
 ```
-📦 GPT-Agents/
+📦 ai_agents/
 ├── 📂 chapter_02/          # Kết nối và cấu hình OpenAI API
 ├── 📂 chapter_03/          # Xây dựng Assistant cơ bản
 ├── 📂 chapter_04/          # AutoGen và CrewAI Frameworks
@@ -58,8 +58,8 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/GPT-Agents.git
-cd GPT-Agents
+git clone https://github.com/meiiie/ai_agents.git
+cd ai_agents
 ```
 
 ### 2. Cài Đặt Dependencies
@@ -251,10 +251,10 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 ## 🌟 Hỗ Trợ
 
-- 📧 **Email**: support@example.com
-- 💬 **Discord**: [Tham gia cộng đồng](https://discord.gg/your-server)
-- 📖 **Documentation**: [Wiki](https://github.com/your-username/GPT-Agents/wiki)
-- 🐛 **Bug Report**: [Issues](https://github.com/your-username/GPT-Agents/issues)
+- 📧 **Email**: meiiie@example.com
+- 💬 **Discord**: [Tham gia cộng đồng](https://discord.gg/ai-agents)
+- 📖 **Documentation**: [Wiki](https://github.com/meiiie/ai_agents/wiki)
+- 🐛 **Bug Report**: [Issues](https://github.com/meiiie/ai_agents/issues)
 
 ## 📈 Roadmap
 
@@ -271,16 +271,16 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 ## 👥 Tác Giả & Đóng Góp
 
 - **Nguyên tác**: Manning Publications - "AI Agents in Action"
-- **Việt hoá & Cập nhật**: [Tên của bạn]
-- **Contributors**: Xem [Contributors](https://github.com/your-username/GPT-Agents/contributors)
+- **Việt hoá & Cập nhật**: [@meiiie](https://github.com/meiiie)
+- **Contributors**: Xem [Contributors](https://github.com/meiiie/ai_agents/contributors)
 - **Cộng đồng**: Lập trình viên Việt Nam ❤️
 
 ## 🎉 Thống Kê
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/GPT-Agents?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/GPT-Agents?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/GPT-Agents)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/GPT-Agents)
+![GitHub stars](https://img.shields.io/github/stars/meiiie/ai_agents?style=social)
+![GitHub forks](https://img.shields.io/github/forks/meiiie/ai_agents?style=social)
+![GitHub issues](https://img.shields.io/github/issues/meiiie/ai_agents)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/meiiie/ai_agents)
 
 ---
 
